@@ -1,0 +1,27 @@
+#on-the-corgi{
+    position: relative;
+    left: 210px;
+    bottom: 30px;
+}
+
+#bandana {
+    position: absolute;
+    top: 175px;
+    left: 112px;
+}
+
+#in-ribbon {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+#sticky-dog {
+    position: sticky;
+    left: 0px;
+}
+
+.top-hat {
+    z-index: 1;
+}
+
